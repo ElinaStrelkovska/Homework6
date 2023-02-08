@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.base {
+    width: 200px;
+    height: 226px;
+    margin: 10px 0 20px 30px;
+    padding: 10px 10px;
+    display: inline-block;
+}
+
+.card_img {
+    width: auto;
+    height: 130px;
+    margin: 0 10px;
+}
+
+.title {
+    color: rgb(36, 24, 115);
+    width: 200px;
+    height: 22px;
+    margin-top: 10px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.text {
+    width: 200px;
+    height: 36px;
+    margin-top: 10px;
+    margin-bottom: 18px;
+    line-height: 18px;
+    text-align: center;
+}
+
+
+
+
